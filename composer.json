@@ -1,8 +1,7 @@
 {
     "name": "dh2y/think-crypt",
     "description": "crypt for thinkphp5",
-    "homepage": "https://github.com/cinaofdai/think-crypt",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "dh2y",
